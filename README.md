@@ -1,1 +1,9 @@
-
+- [CS-Notes 面试笔记](https://www.cyc2018.xyz/)
+- [小林coding 图解计算机基础](https://xiaolincoding.com/)
+- [Krahets 笔面试精选 88 题](https://leetcode.cn/studyplan/selected-coding-interview/)
+- [代码随想录](https://www.programmercarl.com/)
+- [JavaGuide（Java学习&面试指南）](https://javaguide.cn/home.html)
+- [Hello 算法](https://www.hello-algo.com/chapter_hello_algo/)
+- [凤凰架构](https://icyfenix.cn/)
+- [Java 全栈知识体系](https://pdai.tech/md/outline/x-outline.html#%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%8Ejava%E5%9F%BA%E7%A1%80)
+- [互联网 Java 工程师进阶知识完全扫盲](https://doocs.github.io/advanced-java/#/?id=%e4%ba%92%e8%81%94%e7%bd%91-java-%e5%b7%a5%e7%a8%8b%e5%b8%88%e8%bf%9b%e9%98%b6%e7%9f%a5%e8%af%86%e5%ae%8c%e5%85%a8%e6%89%ab%e7%9b%b2)
